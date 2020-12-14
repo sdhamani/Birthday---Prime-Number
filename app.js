@@ -1,4 +1,6 @@
-const moment = require('moment');
+import moment from '../moment.js';
+
+// var moment = require('moment');
 
 var input = document.querySelector('#input')
 
