@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: gray;
+    background-color: black;
+}
+
+#input{
+    margin  : 1rem;
+    text-align: center  ;
+    color: gray;
+}
+
