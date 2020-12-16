@@ -16,6 +16,9 @@ var isPrime = true;
 
 
 function checkYear() {
+
+    document.getElementById('hint').innerHTML  = "";
+
     var array = (input.value).split("-");
     var birthDay = array[2];
 
